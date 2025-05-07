@@ -59,96 +59,96 @@
 <body>
 
     <!-- Slide 1 -->
-    <div class="slide active" id="slide1" style="background-image: url('https://i.imgur.com/noQc78z.png');">
+    <div class="slide active" id="slide1" style="background-image: url('https://i.imgur.com/2EDLzS1.png');">
         <div class="question-box">
-            <h2>Jika kamu menghadapi konflik di kelompokmu, apa yang paling mungkin kamu lakukan?</h2>
-            <div class="answer" onclick="choose('kasta','Royal Princess')">
-                Mengambil alih situasi dan memberi arahan dengan tenang
+            <h2>Ketika menghadapi masalah besar, kamu biasanya...</h2>
+            <div class="answer" onclick="choose('kasta','Coven of Aether')">
+                Menenangkan diri dulu, lalu mendengarkan intuisi
             </div>
-            <div class="answer" onclick="choose('kasta','Noble Princess')">
-                Berusaha memahami semua sudut pandang dan jadi penengah
+            <div class="answer" onclick="choose('kasta','Lunaris Veil')">
+                Melakukan ritual kecil atau journaling untuk jernihkan pikiran
             </div>
-            <div class="answer" onclick="choose('kasta','Guardian Princess')">
-                Menenangkan orang lain dan mencoba membuat mereka tersenyum
+            <div class="answer" onclick="choose('kasta','Thistleborn')">
+                Membuat ramuan teh atau mencari solusi alami
             </div>
-            <div class="answer" onclick="choose('kasta','Mystic Princess')">
-                Menyendiri dulu, lalu memberi solusi dari balik layar
+            <div class="answer" onclick="choose('kasta','Silent Ember')">
+                Diam, menganalisis dalam hati, lalu bertindak tegas
             </div>
         </div>
     </div>
 
     <!-- Slide 2 -->
-    <div class="slide" id="slide2" style="background-image: url('https://i.imgur.com/noQc78z.png');">
+    <div class="slide" id="slide2" style="background-image: url('https://i.imgur.com/2EDLzS1.png');">
         <div class="question-box">
-            <h2>Apa yang paling menggambarkan sisi terdalam dari dirimu?</h2>
-            <div class="answer" onclick="choose('darah','Crimson Blood')">
-                Ambisi besar dan rasa tanggung jawab
+            <h2>Kamu merasa paling hidup saat...</h2>
+            <div class="answer" onclick="choose('peran','The Seer')">
+                Berada di tempat tenang, membaca perasaan orang
             </div>
-            <div class="answer" onclick="choose('darah','Golden Blood')">
-                Empati dan hati yang tulus
+            <div class="answer" onclick="choose('peran','The Binder')">
+                Memimpin sesuatu dengan sistem yang kamu buat
             </div>
-            <div class="answer" onclick="choose('darah','Amethyst Blood')">
-                Imajinasi dan intuisi kuat
+            <div class="answer" onclick="choose('peran','The Healer')">
+                Bisa merawat atau bantu teman
             </div>
-            <div class="answer" onclick="choose('darah','Sapphire Blood')">
-                Keberanian dalam melindungi orang lain
+            <div class="answer" onclick="choose('peran','The Shifter')">
+                Menyusup ke keramaian dan diam-diam mengubah arah
             </div>
         </div>
     </div>
 
     <!-- Slide 3 -->
-    <div class="slide" id="slide3" style="background-image: url('https://i.imgur.com/noQc78z.png');">
+    <div class="slide" id="slide3" style="background-image: url('https://i.imgur.com/2EDLzS1.png');">
         <div class="question-box">
-            <h2>Kamu sedang berjalan di taman istana. Kamu menemukan benda misterius. Apa yang paling menarik perhatianmu?</h2>
-            <div class="answer" onclick="choose('simbol','Symbol of Valor')">
-                Sebilah pedang emas tertancap di batu
+            <h2>Orang-orang biasanya menggambarkanmu sebagai...</h2>
+            <div class="answer" onclick="choose('simbol','Lily of Mist')">
+                Sosok yang menenangkan dan bikin nyaman
             </div>
-            <div class="answer" onclick="choose('simbol','Symbol of Hope')">
-                Burung putih kecil yang tidak takut padamu
+            <div class="answer" onclick="choose('simbol','Eclipse Rune')">
+                Pendiam tapi peka dan sangat dalam
             </div>
-            <div class="answer" onclick="choose('simbol','Symbol of Vision')">
-                Kristal yang terus berubah warna
+            <div class="answer" onclick="choose('simbol','Vine Serpent')">
+                Unik, sedikit aneh, tapi pintar banget
             </div>
-            <div class="answer" onclick="choose('simbol','Symbol of Dreams')">
-                Lukisan bulan sabit bercahaya
+            <div class="answer" onclick="choose('simbol','Blazing Spiral')">
+                Intens dan spontan, kadang sulit ditebak
             </div>
         </div>
     </div>
 
     <!-- Slide 4 -->
-    <div class="slide" id="slide4" style="background-image: url('https://i.imgur.com/noQc78z.png');">
+    <div class="slide" id="slide4" style="background-image: url('https://i.imgur.com/2EDLzS1.png');">
         <div class="question-box">
-            <h2>Jika kamu diberi kekuatan sihir, kamu ingin kekuatan seperti apa?</h2>
-            <div class="answer" onclick="choose('kekuatan','Flame Barrier')">
-                Melindungi orang dari bahaya
+            <h2>Dalam sebuah kelompok, kamu paling cocok jadi...</h2>
+            <div class="answer" onclick="choose('kekuatan','Spirit Whisper')">
+                Pendengar arif, selalu tahu kapan harus bicara
             </div>
-            <div class="answer" onclick="choose('kekuatan','Spirit Aura')">
-                Menyembuhkan luka hati dan fisik
+            <div class="answer" onclick="choose('kekuatan','Moonbind')">
+                Pengontrol situasi, bisa meredam konflik
             </div>
-            <div class="answer" onclick="choose('kekuatan','Elemental Surge')">
-                Mengendalikan alam sekitar
+            <div class="answer" onclick="choose('kekuatan','Naturecraft')">
+                Si pengatur detail, tahu semua yang dibutuhkan
             </div>
-            <div class="answer" onclick="choose('kekuatan','Illusion Craft')">
-                Membuat ilusi untuk menghibur dan melindungi
+            <div class="answer" onclick="choose('kekuatan','Fireveil')">
+                Pemicu ide atau aksi, gak takut ambil risiko
             </div>
         </div>
     </div>
 
     <!-- Hasil -->
-    <div class="slide" id="result" style="background-image: url('https://i.imgur.com/N7aX6LQ.png');">
+    <div class="slide" id="result" style="background-image: url('https://i.imgur.com/ONkMu5q.png');">
         <div class="result-box">
             <h2>Cetak ID-mu di sini: https://hyivenvilleofc.github.io/hyivenville-id/</h2>
             <p>
                 <strong>Hasil:</strong>
             </p>
             <p>
-                Keturunan: Princess
+                Keturunan: Witch
             </p>
             <p>
                 Kasta: <span id="hasilKasta"></span>
             </p>
             <p>
-                Darah: <span id="hasilDarah"></span>
+                Peran: <span id="hasilPeran"></span>
             </p>
             <p>
                 Simbol: <span id="hasilSimbol"></span>
@@ -162,7 +162,7 @@
     <script>
         let result = {
             kasta: '',
-            darah: '',
+            peran: '',
             simbol: '',
             kekuatan: ''
         };
@@ -182,7 +182,7 @@
 
         function showResult() {
             document.getElementById("hasilKasta").textContent = result.kasta;
-            document.getElementById("hasilDarah").textContent = result.darah;
+            document.getElementById("hasilPeran").textContent = result.peran;
             document.getElementById("hasilSimbol").textContent = result.simbol;
             document.getElementById("hasilKekuatan").textContent = result.kekuatan;
             document.getElementById("result").classList.add("active");
